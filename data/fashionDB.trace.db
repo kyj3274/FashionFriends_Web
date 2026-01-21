@@ -1,0 +1,9 @@
+2025-12-05 02:38:43.700354+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]CLOTHES FOLLOW"; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT"; SQL statement:
+CLOTHES FOLLOW [42001-232]
+2025-12-05 02:38:49.514474+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM HEART .[*]"; expected "identifier"; SQL statement:
+SELECT * FROM HEART . [42001-232]
+2025-12-05 02:39:10.273928+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]NOTIFICATION"; SQL statement:
+NOTIFICATION [42000-232]
